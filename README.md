@@ -26,3 +26,22 @@ https://www.kaggle.com/datasets/prosperchuks/fakereal-logo-detection-dataset
 ## Deployment
 
 https://real-fake-logo-image-detection.streamlit.app/
+
+## File Description
+
+### deployment:
+
+* LD.png: This png file contains images for aesthetics.
+* app.py: This Python file contains the main logic for the deployment application.
+* eda.py: This Python file contains the logic for EDA.
+* logo_model.h5: This h5 file contains a model for prediction.
+* prediction.py: This Python file contains the logic for predictions.
+* requirements.txt: This txt file contains the libraries required for deployment.
+  
+### h8dsft_P2M2_Mangara_Siagian.ipynb:
+
+This notebook contains an analysis of Real Fake Logo Detection.
+
+### h8dsft_P2M2_Mangara_Siagian_inference.ipynb: 
+
+This notebook contains real fake logo detection prediction trial.
